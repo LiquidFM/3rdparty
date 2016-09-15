@@ -1,0 +1,3 @@
+[submodule "libunrar"]
+	path = libunrar
+	url = git@github.com:LiquidFM/libunrar.git
