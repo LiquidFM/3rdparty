@@ -26,3 +26,7 @@ add_project_documentation_main_target ()
 
 # 3rdparty
 add_subdirectory (libunrar)
+
+set (exceptions OFF)
+set (deprecated-functions OFF)
+add_subdirectory (libtorrent)

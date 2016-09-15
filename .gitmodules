@@ -1,3 +1,6 @@
 [submodule "libunrar"]
 	path = libunrar
 	url = git@github.com:LiquidFM/libunrar.git
+[submodule "libtorrent"]
+	path = libtorrent
+	url = git@github.com:LiquidFM/libtorrent.git
