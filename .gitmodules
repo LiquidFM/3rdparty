@@ -4,3 +4,6 @@
 [submodule "libtorrent"]
 	path = libtorrent
 	url = git@github.com:LiquidFM/libtorrent.git
+[submodule "liquiddb"]
+	path = liquiddb
+	url = git@github.com:LiquidFM/liquiddb.git

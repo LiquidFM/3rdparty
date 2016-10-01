@@ -26,6 +26,7 @@ add_project_documentation_main_target ()
 
 # 3rdparty
 add_subdirectory (libunrar)
+add_subdirectory (liquiddb)
 
 set (exceptions OFF)
 set (deprecated-functions OFF)
