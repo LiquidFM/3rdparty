@@ -29,5 +29,5 @@ add_subdirectory (libunrar)
 add_subdirectory (liquiddb)
 
 set (exceptions OFF)
-set (deprecated-functions OFF)
+#set (deprecated-functions OFF)
 add_subdirectory (libtorrent)
