@@ -7,3 +7,6 @@
 [submodule "liquiddb"]
 	path = liquiddb
 	url = git@github.com:LiquidFM/liquiddb.git
+[submodule "ldm"]
+	path = ldm
+	url = git@github.com:LiquidFM/ldm.git
